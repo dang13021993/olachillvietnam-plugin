@@ -1,0 +1,34 @@
+{
+  "name": "olachillvietnam",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "OlaChill Vietnam: charter coaches, private cars and limousines in Vietnam. Read-only: published vehicle classes, passenger and luggage guidance, and how to request a quote.",
+  "license": "MIT",
+  "homepage": "https://olachillvietnam.com",
+  "author": "OlaChill Vietnam <helo@olachillvietnam.com>",
+  "keywords": [
+    "dsh",
+    "vietnam",
+    "charter-bus",
+    "private-car",
+    "limousine",
+    "group-travel",
+    "mcp"
+  ],
+  "files": [
+    "cordis.patch.yml",
+    "locale/*.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    "./package.json": "./package.json",
+    "./locale/*.json": "./locale/*.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

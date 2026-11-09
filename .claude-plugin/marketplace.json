@@ -1,0 +1,14 @@
+{
+  "name": "olachillvietnam",
+  "owner": {
+    "name": "OlaChill Vietnam",
+    "email": "helo@olachillvietnam.com"
+  },
+  "plugins": [
+    {
+      "name": "olachillvietnam",
+      "source": "./",
+      "description": "OlaChill Vietnam: charter coaches, private cars and limousines in Vietnam. Read-only: published vehicle classes, passenger and luggage guidance, and how to request a quote."
+    }
+  ]
+}

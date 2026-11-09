@@ -1,0 +1,12 @@
+{
+  "name": "olachillvietnam",
+  "version": "1.0.0",
+  "description": "OlaChill Vietnam: charter coaches, private cars and limousines in Vietnam. Read-only: published vehicle classes, passenger and luggage guidance, and how to request a quote.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "olachillvietnam": {
+      "httpUrl": "https://olachillvietnam.com/mcp",
+      "timeout": 30000
+    }
+  }
+}

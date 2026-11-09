@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "olachillvietnam": {
+      "type": "http",
+      "url": "https://olachillvietnam.com/mcp"
+    }
+  }
+}

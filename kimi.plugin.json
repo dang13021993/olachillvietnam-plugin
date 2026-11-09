@@ -1,0 +1,32 @@
+{
+  "name": "olachillvietnam",
+  "version": "1.0.0",
+  "description": "OlaChill Vietnam: charter coaches, private cars and limousines in Vietnam. Read-only: published vehicle classes, passenger and luggage guidance, and how to request a quote.",
+  "keywords": [
+    "vietnam",
+    "charter-bus",
+    "private-car",
+    "limousine",
+    "group-travel",
+    "mcp"
+  ],
+  "author": {
+    "name": "OlaChill Vietnam",
+    "email": "helo@olachillvietnam.com"
+  },
+  "homepage": "https://olachillvietnam.com",
+  "license": "MIT",
+  "interface": {
+    "displayName": "OlaChill Vietnam",
+    "shortDescription": "Charter coaches and private cars in Vietnam",
+    "longDescription": "Connects to the public, read-only OlaChill Vietnam MCP server (https://olachillvietnam.com/mcp). Lists published charter coach classes and private car and limousine types in Vietnam with passenger and luggage guidance, and explains how to request a quote. It never books, and it gives no live availability or confirmed prices.",
+    "developerName": "OlaChill Vietnam",
+    "websiteURL": "https://olachillvietnam.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": {
+    "olachillvietnam": {
+      "url": "https://olachillvietnam.com/mcp"
+    }
+  }
+}

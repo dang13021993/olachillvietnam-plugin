@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "olachillvietnam",
+  "version": "1.0.0",
+  "description": "OlaChill Vietnam: charter coaches, private cars and limousines in Vietnam. Read-only: published vehicle classes, passenger and luggage guidance, and how to request a quote.",
+  "author": {
+    "name": "OlaChill Vietnam",
+    "email": "helo@olachillvietnam.com",
+    "url": "https://olachillvietnam.com"
+  },
+  "homepage": "https://olachillvietnam.com",
+  "license": "MIT",
+  "keywords": [
+    "vietnam",
+    "charter-bus",
+    "private-car",
+    "limousine",
+    "group-travel",
+    "mcp"
+  ]
+}
